@@ -1,4 +1,4 @@
-# <img src="https://github.com/kuibu/embodied-intelligence/blob/main/images/EI-logo_and_name.png" width="180" height="130" alt="EOS">
+# <img src="https://github.com/kuibu/embodied-intelligence/blob/main/images/EI-logo_and_name.png" width="220" height="130" alt="EOS">
 
 --------------------------------------------------------------------------------
 
