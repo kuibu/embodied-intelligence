@@ -8,6 +8,7 @@
 
 ## Introduction
 **Embodied Intelligence** is an embodied intelligence and spatial intelligence algorithm library launched by CAICT and BUPT. It mainly serves the embodied intelligence operating system EOS, but it also supports multiple platforms such as robots, drones, AR/VR and mobile phones.
+
 **EOS** is an embodied intelligence operating system release based on the dual-kernel real-time kernel [RROS](https://github.com/BUPT-OS/RROS).
 It aims to build **an easy-to-use platform to collect all the software needed to create an intelligent robot application**.
 Specifically, there are three important steps:
